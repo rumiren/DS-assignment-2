@@ -18,7 +18,7 @@ In this assignment, I program for the shogi.
 
 ```sh
 # Compile
-gcc -o main HM1.c -lev
+gcc -o main hw2.c -lev
 # Run for starting a new game
 ./main -n -s saved_filename
 //saved_filename should be in 20 leters and use '.txt'.
